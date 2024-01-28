@@ -1,0 +1,16 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@ohos/axios": "latest",
+    "@ohos/lottie": "^2.0.4",
+    "@ohos/textlayoutbuilder": "latest",
+    "@ohos/roundedimageview": "latest"
+  },
+  "devDependencies": {}
+}
+
